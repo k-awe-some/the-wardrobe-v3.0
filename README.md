@@ -1,5 +1,7 @@
 # The Wardrobe
+
 **_This repo contains version 3.0 of this web app. Latest version can be found [here](https://github.com/k-awe-some/the-wardrobe)._**
+
 The Wardrobe is an e-commerce store that sells clothing and accessories.
 
 ## Description
